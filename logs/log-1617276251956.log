@@ -1,0 +1,4 @@
+2021-04-01 22:24:12 INFO  Reporting:101 - Alert, is element present, unable to locate element
+2021-04-01 22:24:12 INFO  Reporting:101 - FAIL, Validate Attribute, No Expected value present or Unable to locate the locator for: Home Page > Search Box
+2021-04-01 22:24:12 INFO  Reporting:101 - FAIL, Enter text, Unable to enter text in Home Page > Search Box
+2021-04-01 22:24:23 INFO  Reporting:101 - FAIL, Verify the click Element, Unable to click on Search Box > Magnifying glass By.xpath: //button[@class='search-container_btn-submit']

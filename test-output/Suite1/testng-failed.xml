@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]" parallel="tests">
+  <test thread-count="5" name="FirefoxTest(failed)" parallel="tests">
+    <parameter name="environment" value="firefox"/>
+    <parameter name="url" value="QA"/>
+    <classes>
+      <class name="com.bunnings.testscripts.SearchBox">
+        <methods>
+          <include name="verifySearchBox"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.bunnings.testscripts.SearchBox -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

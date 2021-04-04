@@ -1,0 +1,10 @@
+2021-04-03 18:50:54 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-03 18:50:55 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:50:55 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:50:55 INFO  Reporting:101 - Pass, Validate Alert Text , value is correct for: No Search Keywords
+2021-04-03 18:50:55 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:50:59 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:50:59 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text
+2021-04-03 18:51:00 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:51:03 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:51:05 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text

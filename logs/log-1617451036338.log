@@ -1,0 +1,20 @@
+2021-04-03 22:57:16 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-03 22:57:17 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:17 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:57:17 INFO  Reporting:101 - Pass, Validate Alert Text , value is correct for: No Search Keywords
+2021-04-03 22:57:18 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:21 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:57:25 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text
+2021-04-03 22:57:25 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:29 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:57:33 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text
+2021-04-03 22:57:45 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-03 22:57:45 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:46 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:57:46 INFO  Reporting:101 - Pass, Validate Alert Text , value is correct for: No Search Keywords
+2021-04-03 22:57:46 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:49 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:57:53 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text
+2021-04-03 22:57:53 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 22:57:57 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 22:58:01 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text

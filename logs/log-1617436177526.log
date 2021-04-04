@@ -1,0 +1,10 @@
+2021-04-03 18:49:37 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-03 18:49:38 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:49:38 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:49:38 INFO  Reporting:101 - Pass, Validate Alert Text , value is correct for: No Search Keywords
+2021-04-03 18:49:38 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:49:41 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:49:42 INFO  Reporting:101 - Pass, Validate text , value is correct for: Results Text
+2021-04-03 18:49:42 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 18:49:45 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 18:49:47 INFO  Reporting:101 - FAIL, Validate text, value is incorrect for: Results Text, Expected value is :2158 results for pots Actual value is :

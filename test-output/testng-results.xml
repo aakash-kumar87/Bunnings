@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="61052" started-at="2021-04-03T12:04:59Z" finished-at="2021-04-03T12:06:00Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="29341" started-at="2021-04-03T12:04:59Z" finished-at="2021-04-03T12:05:28Z">
+      <class name="com.bunnings.testscripts.SearchBox">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="launchBrowser" is-config="true" duration-ms="10515" started-at="2021-04-03T12:04:59Z" finished-at="2021-04-03T12:05:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifySearchBox()[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="verifySearchBox" duration-ms="966" started-at="2021-04-03T12:05:09Z" finished-at="2021-04-03T12:05:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method status="PASS" signature="verifySearchNoText()[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="verifySearchNoText" duration-ms="1166" started-at="2021-04-03T12:05:10Z" finished-at="2021-04-03T12:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchNoText -->
+        <test-method status="PASS" signature="verifySearchInCorrectText()[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="verifySearchInCorrectText" duration-ms="7376" started-at="2021-04-03T12:05:11Z" finished-at="2021-04-03T12:05:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchInCorrectText -->
+        <test-method status="PASS" signature="verifySearchCorrectText()[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="verifySearchCorrectText" duration-ms="8293" started-at="2021-04-03T12:05:19Z" finished-at="2021-04-03T12:05:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchCorrectText -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.bunnings.testscripts.SearchBox@27efef64]" name="closeBrowser" is-config="true" duration-ms="980" started-at="2021-04-03T12:05:27Z" finished-at="2021-04-03T12:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.bunnings.testscripts.SearchBox -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="31660" started-at="2021-04-03T12:05:28Z" finished-at="2021-04-03T12:06:00Z">
+      <class name="com.bunnings.testscripts.SearchBox">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="launchBrowser" is-config="true" duration-ms="11308" started-at="2021-04-03T12:05:28Z" finished-at="2021-04-03T12:05:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifySearchBox()[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="verifySearchBox" duration-ms="623" started-at="2021-04-03T12:05:39Z" finished-at="2021-04-03T12:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method status="PASS" signature="verifySearchNoText()[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="verifySearchNoText" duration-ms="1233" started-at="2021-04-03T12:05:40Z" finished-at="2021-04-03T12:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchNoText -->
+        <test-method status="PASS" signature="verifySearchInCorrectText()[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="verifySearchInCorrectText" duration-ms="8985" started-at="2021-04-03T12:05:41Z" finished-at="2021-04-03T12:05:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchInCorrectText -->
+        <test-method status="PASS" signature="verifySearchCorrectText()[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="verifySearchCorrectText" duration-ms="7345" started-at="2021-04-03T12:05:50Z" finished-at="2021-04-03T12:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchCorrectText -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.bunnings.testscripts.SearchBox@13deb50e]" name="closeBrowser" is-config="true" duration-ms="2158" started-at="2021-04-03T12:05:58Z" finished-at="2021-04-03T12:06:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.bunnings.testscripts.SearchBox -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
