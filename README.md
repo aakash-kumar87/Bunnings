@@ -11,4 +11,5 @@ Overview of the framework created.
 * Screenshots of the failures are also taken by the scripts and are stored screeshots folder. An expamle is added in screenshot folder.
 * To run the test, Required JDK, JRE, selenium and other jar files are needed. 
 * The test is run from TestNG files provided
+* BDD test cases are attached as "Buunings Test Cases.xlsx"
 
