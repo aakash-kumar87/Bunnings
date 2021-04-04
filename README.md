@@ -1,2 +1,4 @@
 # Bunnings
-Bunnings Testing Challenge
+Overview of the framweork created. 
+* Maven is used to list all dependcies
+* 
