@@ -1,0 +1,3 @@
+2021-04-01 22:07:06 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-01 22:07:07 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-01 22:07:18 INFO  Reporting:101 - FAIL, Verify the click Element, Unable to click on Search Box > Magnifying glass By.xpath: //*[@id="headerMainMenu"]/div[2]/div/div[1]/div/div/button/svg

@@ -1,0 +1,19 @@
+2021-04-03 23:03:21 INFO  Reporting:101 - Pass, Validate Attribute, value is correct for: Home Page > Search Box placeholder
+2021-04-03 23:03:21 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 23:03:21 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 23:03:22 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 23:03:23 INFO  Reporting:101 - FAIL, Verify the click Element, Unable to click on Search Box > Magnifying glass By.xpath: //button[@class='search-container_btn-submit']
+2021-04-03 23:03:24 INFO  Reporting:101 - FAIL, Validate Alert Text, No Expected value present or Unable to locate the locator for: No Search Keywords
+2021-04-03 23:03:24 INFO  Reporting:101 - FAIL, Validate Alert Text, No Expected value present or Unable to locate the locator for: No Search Keywords
+2021-04-03 23:03:24 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 23:03:35 INFO  Reporting:101 - FAIL, Enter text, Unable to enter text in Home Page > Search Box
+2021-04-03 23:03:38 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 23:03:43 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 23:03:44 INFO  Reporting:101 - FAIL, Validate text, value is incorrect for: Results Text, Expected value is :0 results for asd Actual value is :
+2021-04-03 23:03:44 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 23:03:49 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 23:03:50 INFO  Reporting:101 - FAIL, Validate text, value is incorrect for: Results Text, Expected value is :0 results for asd Actual value is :
+2021-04-03 23:03:50 INFO  Reporting:101 - Pass, Enter Text, Succesfully entered text in Home Page > Search Box
+2021-04-03 23:03:56 INFO  Reporting:101 - Pass, Verify the click element , succesfully clicked on Search Box > Magnifying glass
+2021-04-03 23:03:56 INFO  Reporting:101 - FAIL, Validate text, value is incorrect for: Results Text, Expected value is :2158 results for pots Actual value is :
+2021-04-03 23:04:00 INFO  Reporting:101 - FAIL, Validate text, No Expected value present or Unable to locate the locator for: Results Text
