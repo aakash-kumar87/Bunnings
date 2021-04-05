@@ -14,3 +14,5 @@ Overview of the framework created.
 * BDD test cases are attached as "Bunnings Test Cases.xlsx"
 * Test Strategy Document is created and attached in the repo as Test Strategy.Docx
 * Attached couple of video that i created with narration highlighting some things about the framework and the Test run for the test cases added. Files are attached as Test Scripts Overview 1.mp4 and Test Scripts Overview 2.mp4
+
+The whole testing challenge is like a mini project and took around 12 hours to complete the task which includes building of framweok from scratch. 
