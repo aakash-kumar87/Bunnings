@@ -12,4 +12,5 @@ Overview of the framework created.
 * To run the test, Required JDK, JRE, selenium and other jar files are needed. 
 * The test is run from TestNG files provided
 * BDD test cases are attached as "Bunnings Test Cases.xlsx"
-
+* Test Strategy Document is created and attached in the repo as Test Strategy.Docx
+* Attached couple of video that i created with narration highlighting some things about the framework and the Test run for the test cases added. Files are attached as Test Scripts Overview 1.mp4 and Test Scripts Overview 2.mp4
